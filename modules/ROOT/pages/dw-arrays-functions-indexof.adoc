@@ -46,3 +46,4 @@ indexOf(users, "Julian")
 2
 ----
 
+It will returns an result as -1 if there is no matching array element found
